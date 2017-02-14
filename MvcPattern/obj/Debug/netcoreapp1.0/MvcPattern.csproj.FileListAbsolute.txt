@@ -1,0 +1,9 @@
+D:\Google Drive\Projects\MvcPattern\MvcPattern\bin\Debug\netcoreapp1.0\MvcPattern.deps.json
+D:\Google Drive\Projects\MvcPattern\MvcPattern\bin\Debug\netcoreapp1.0\MvcPattern.runtimeconfig.json
+D:\Google Drive\Projects\MvcPattern\MvcPattern\bin\Debug\netcoreapp1.0\MvcPattern.runtimeconfig.dev.json
+D:\Google Drive\Projects\MvcPattern\MvcPattern\bin\Debug\netcoreapp1.0\MvcPattern.dll
+D:\Google Drive\Projects\MvcPattern\MvcPattern\bin\Debug\netcoreapp1.0\MvcPattern.pdb
+D:\Google Drive\Projects\MvcPattern\MvcPattern\obj\Debug\netcoreapp1.0\MvcPattern.csprojResolveAssemblyReference.cache
+D:\Google Drive\Projects\MvcPattern\MvcPattern\obj\Debug\netcoreapp1.0\MvcPattern.AssemblyInfo.cs
+D:\Google Drive\Projects\MvcPattern\MvcPattern\obj\Debug\netcoreapp1.0\MvcPattern.dll
+D:\Google Drive\Projects\MvcPattern\MvcPattern\obj\Debug\netcoreapp1.0\MvcPattern.pdb

@@ -1,0 +1,9 @@
+D:\Google Drive\Projects\MvcPattern\Composite\bin\Debug\netcoreapp1.0\Composite.deps.json
+D:\Google Drive\Projects\MvcPattern\Composite\bin\Debug\netcoreapp1.0\Composite.runtimeconfig.json
+D:\Google Drive\Projects\MvcPattern\Composite\bin\Debug\netcoreapp1.0\Composite.runtimeconfig.dev.json
+D:\Google Drive\Projects\MvcPattern\Composite\bin\Debug\netcoreapp1.0\Composite.dll
+D:\Google Drive\Projects\MvcPattern\Composite\bin\Debug\netcoreapp1.0\Composite.pdb
+D:\Google Drive\Projects\MvcPattern\Composite\obj\Debug\netcoreapp1.0\Composite.AssemblyInfo.cs
+D:\Google Drive\Projects\MvcPattern\Composite\obj\Debug\netcoreapp1.0\Composite.dll
+D:\Google Drive\Projects\MvcPattern\Composite\obj\Debug\netcoreapp1.0\Composite.pdb
+D:\Google Drive\Projects\MvcPattern\Composite\obj\Debug\netcoreapp1.0\Composite.csprojResolveAssemblyReference.cache

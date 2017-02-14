@@ -1,0 +1,9 @@
+D:\Google Drive\Projects\MvcPattern\Strategy\bin\Debug\netcoreapp1.0\Strategy.deps.json
+D:\Google Drive\Projects\MvcPattern\Strategy\bin\Debug\netcoreapp1.0\Strategy.runtimeconfig.json
+D:\Google Drive\Projects\MvcPattern\Strategy\bin\Debug\netcoreapp1.0\Strategy.runtimeconfig.dev.json
+D:\Google Drive\Projects\MvcPattern\Strategy\bin\Debug\netcoreapp1.0\Strategy.dll
+D:\Google Drive\Projects\MvcPattern\Strategy\bin\Debug\netcoreapp1.0\Strategy.pdb
+D:\Google Drive\Projects\MvcPattern\Strategy\obj\Debug\netcoreapp1.0\Strategy.AssemblyInfo.cs
+D:\Google Drive\Projects\MvcPattern\Strategy\obj\Debug\netcoreapp1.0\Strategy.dll
+D:\Google Drive\Projects\MvcPattern\Strategy\obj\Debug\netcoreapp1.0\Strategy.pdb
+D:\Google Drive\Projects\MvcPattern\Strategy\obj\Debug\netcoreapp1.0\Strategy.csprojResolveAssemblyReference.cache

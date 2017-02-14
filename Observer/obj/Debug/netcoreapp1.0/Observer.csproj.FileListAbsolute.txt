@@ -1,0 +1,9 @@
+D:\Google Drive\Projects\MvcPattern\Observer\bin\Debug\netcoreapp1.0\Observer.deps.json
+D:\Google Drive\Projects\MvcPattern\Observer\bin\Debug\netcoreapp1.0\Observer.runtimeconfig.json
+D:\Google Drive\Projects\MvcPattern\Observer\bin\Debug\netcoreapp1.0\Observer.runtimeconfig.dev.json
+D:\Google Drive\Projects\MvcPattern\Observer\bin\Debug\netcoreapp1.0\Observer.dll
+D:\Google Drive\Projects\MvcPattern\Observer\bin\Debug\netcoreapp1.0\Observer.pdb
+D:\Google Drive\Projects\MvcPattern\Observer\obj\Debug\netcoreapp1.0\Observer.AssemblyInfo.cs
+D:\Google Drive\Projects\MvcPattern\Observer\obj\Debug\netcoreapp1.0\Observer.dll
+D:\Google Drive\Projects\MvcPattern\Observer\obj\Debug\netcoreapp1.0\Observer.pdb
+D:\Google Drive\Projects\MvcPattern\Observer\obj\Debug\netcoreapp1.0\Observer.csprojResolveAssemblyReference.cache
